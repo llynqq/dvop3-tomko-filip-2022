@@ -16,7 +16,7 @@ h3{
     justify-content: center;
     background-color: rgb(34, 34, 34);
     width: 100%;
-    height: 10vh;
+    height: 1vh;
     .navbar-flex{
         display: flex;
         width: 80%;
@@ -54,10 +54,10 @@ nav{
     a{
         text-decoration: none;
         color: white;
-        padding: 20px;
+        padding: 10px;
     }
     a:hover{
-        background-color: red;
+        background-color: black;
     }
 
 }
